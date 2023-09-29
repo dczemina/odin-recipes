@@ -4,4 +4,4 @@
 This project was created while following along with [this lesson](https://www.theodinproject.com/lessons/foundations-recipes) on The Odin Project.
 
 ## Goals
-As an experienced developer, I was already familiar with the contents of this lesson. However, I wanted to brush up on my web development skills since I have been primarily a java and plsql developer for the last 5 years. This was a good way to brush up on some skills while having fun.
+I have 10+ years experience with Java and PLSQL but wanted to brush up on my web development skills. I focused purely on the HTML in this project per the requirements.
